@@ -26,7 +26,19 @@ section {
   padding: 10px 40px;
   border-radius: 5px;
 }
-.top-banner {
+.captain-america {
   background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.iron-man {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.iron-man-paragraph {
+  padding-right: 5%;
+}
+.thor {
+  background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
 }
